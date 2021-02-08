@@ -1,3 +1,1 @@
-# Typescript Node.js Base Project
-
-## Just used to get started
+# Machine Learning Nueral Net Work In Progress
